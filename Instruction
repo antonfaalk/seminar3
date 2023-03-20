@@ -50,3 +50,7 @@ show all branches
 
 make new branch
 
+**14. git branch -d "branch name"**
+
+delet branch
+
