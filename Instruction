@@ -54,3 +54,7 @@ make new branch
 
 delet branch
 
+**15. git merge "branch name"**
+
+merging branches
+
