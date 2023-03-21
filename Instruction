@@ -58,3 +58,8 @@ delet branch
 
 merging branches
 
+**16. git branch -m <new branch name>**
+
+rename branch
+
+
