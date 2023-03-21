@@ -54,6 +54,11 @@ make new branch
 
 delet branch
 
+**14.1 git branch -D "branch name"**
+
+удаление ветки в случае, если мы уверены, что не сохраненные данные нам уже точно не нужны
+
+
 **15. git merge "branch name"**
 
 merging branches
