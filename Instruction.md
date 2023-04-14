@@ -72,6 +72,9 @@ merging branches
 
 **16. git branch -m <new branch name>**
 
-rename branch
+## Удаление репозитория
+
+Remote reposytory
+
 
 
