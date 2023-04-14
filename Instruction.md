@@ -76,5 +76,7 @@ merging branches
 
 Remote reposytory
 
+Тут будет важная информация про удаленные репозитории
+
 
 
